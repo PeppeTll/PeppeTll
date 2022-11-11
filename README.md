@@ -60,9 +60,10 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+<div align="center">  
+  <img width="calc(100% / 3)" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=peppetll&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D"/> 
+  <img width="calc(100% / 3)" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppetll&layout=compact&theme=tokyonight_duo&hide_border=true&title_color=B75C63&text_color=89AF70&bg_color=0d1117"/>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peppetll&show_icons=true&theme=dark&bg_color=000000&hide_border=true&locale=en&layout=compact" alt="peppetll" /></p><p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peppetll&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&locale=en" alt="peppetll" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peppetll&theme=dark" alt="peppetll" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a4f6e&height=120&section=footer"/>
