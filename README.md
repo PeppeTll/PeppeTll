@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peppetll&label=Profile%20views&color=0e75b6&style=flat" alt="peppetll" /> </p>
 
-- 🌱 I’m currently learning **React, Dart, Flutter**
+- 🌱 I’m currently learning **React and Angular**
 
 - 👯 I’m looking to collaborate on [OrionWare](https://github.com/Orionwaredev)
 
