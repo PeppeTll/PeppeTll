@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/icegif-6438.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peppetll&label=Profile%20views&color=0e75b6&style=flat" alt="peppetll" /> </p>
 
-- 🌱 I’m currently working **React and Next.js**
+- 🌱 I’m currently working **React && Next.js && Vue.js**
 
 - 👯 I’m looking to collaborate...
 
